@@ -124,7 +124,7 @@ These Epics usually require more than one Sprint to be completed.
 - Course creation module.
 - Module for student interaction.
 
-**What do User Stories tell us?**
+## What do User Stories tell us?
 User stories are the most specific elements of the Product List, they contain the user's view of the expected functionality of the product.
 
 
@@ -148,9 +148,36 @@ If we develop an LMS system the epics can be:
 - As a student
 - I want to be able to complete assessments on the platform.
 - To be able to be assessed and have a grade.
+
+
   
  The definition of "complete" is the list of elements required to know that a story is complete. Example:
 - Functionality. (Acceptance criteria)
 - Code uploaded to git.
 - Tests created.
 - Documentation.
+
+
+## Estimating user stories
+The points in a story are a number that represents several things:
+- Complexity of the story
+- Amount of work required
+- Knowledge required
+- Uncertainty
+Point values have no connection to any specific unit of measurement.
+
+### Planning Poker
+This is a tool to involve the whole team in story estimation.
+You can use different scales:
+- Modified Fibonacci (1, 2, 3, 5, 5, 8, 13, 13, 20, 40, 100, ∞ and ?). 
+- 2ⁿ (1, 2, 4, 8, 16, 32...)
+
+- **Speed** This is the total number of user story points completed by the team during a sprint.
+- **Capacity** Total number of user stories that can be completed in a future sprint.
+
+## Sprint To Do List
+It is a subset of the Product List and contains all the elements that will be developed during the Sprint.
+The increment to be developed and the Sprint objectives will depend on these items.
+This plan must have enough detail so that the whole team is able to understand it in the daily stand-ups (daily Scrum).
+Only the development team can accept additions to the Sprint Backlog. If an item becomes unnecessary in the middle of a sprint, it can be removed from the backlog.
+## Backlog prioritization
