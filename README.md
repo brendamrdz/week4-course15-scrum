@@ -133,11 +133,17 @@ User stories are the most specific elements of the Product List, they contain th
 - Description
 - Points
 - Acceptance Criteria
+
+
 **Description:**
-- As <rol>
-- I want <action>
-- For <benefit>
-Example:
+- As (rol)
+- I want (action)
+- For (benefit)
+
+
+**Example:**
+
+
 If we develop an LMS system the epics can be:
 - As a student
 - I want to be able to complete assessments on the platform.
