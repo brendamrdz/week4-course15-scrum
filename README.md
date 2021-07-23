@@ -68,7 +68,7 @@ Scrum Teams deliver products iteratively and incrementally, maximizing opportuni
 **Dependencies**: It is ideal to organize teams with a focus on minimizing dependencies on external entities.
 **Types of organization**: Teams can be organized based on functionalities or components.
 
-### Product Owner
+#### Product Owner
 The Product Owner is responsible for maximizing the value of the product resulting from the work of the Development Team. The Product Owner is the sole person responsible for managing the Product List.
 Responsibilities:
 - Clearly express the elements of the Product List. 
@@ -79,7 +79,7 @@ Responsibilities:
 The Product Owner's decisions are reflected in the content and prioritization of the Product List.
 No one can force the Development Team to work based on a different set of requirements.
 
-### Scrum Master
+#### Scrum Master
 The Scrum Master role is responsible for promoting and supporting Scrum by helping everyone understand Scrum theory, practices, rules, and values.
 The Scrum Master is a leader who is at the service of the Scrum Team. Helps people outside the Scrum Team understand which interactions with the Scrum Team can be useful and which cannot. 
 **The Scrum Master's Role**
@@ -95,7 +95,7 @@ The Scrum Master is a leader who is at the service of the Scrum Team. Helps peop
 - Remove impediments to the Development Team's progress.
 - The Scrum Master's Service to the Organization.
 
-### The Development Team
+#### The Development Team
 Consists of the professionals who perform the work of delivering a "Finished" product increment that can potentially be put into production at the end of each Sprint.
 The organization is responsible for structuring and empowering the Development Teams to organize and manage their own work.
 Characteristics:
@@ -106,7 +106,7 @@ Characteristics:
 - Can only be modified at the end of the sprint.
 The optimal size of the Development Team is small enough to remain agile and large enough to complete a significant amount of work.
 
-## Epics and the Product Backlog
+### Epics and the Product Backlog
 The Product Backlog is an ordered list of everything known to be needed in the product. It is the only source of requirements for any changes to be made to the product.
 The Product Backlog is never complete, it is always being developed as the project progresses. The items on the highest priority list have more complete descriptions.
 The Product List is dynamic; it is constantly changing to identify what the product needs to be adequate, competitive and useful.
@@ -158,7 +158,7 @@ If we develop an LMS system the epics can be:
 - Documentation.
 
 
-## Estimating user stories
+### Estimating user stories
 The points in a story are a number that represents several things:
 - Complexity of the story
 - Amount of work required
@@ -166,7 +166,7 @@ The points in a story are a number that represents several things:
 - Uncertainty
 Point values have no connection to any specific unit of measurement.
 
-### Planning Poker
+#### Planning Poker
 This is a tool to involve the whole team in story estimation.
 You can use different scales:
 - Modified Fibonacci (1, 2, 3, 5, 5, 8, 13, 13, 20, 40, 100, ∞ and ?). 
@@ -180,4 +180,6 @@ It is a subset of the Product List and contains all the elements that will be de
 The increment to be developed and the Sprint objectives will depend on these items.
 This plan must have enough detail so that the whole team is able to understand it in the daily stand-ups (daily Scrum).
 Only the development team can accept additions to the Sprint Backlog. If an item becomes unnecessary in the middle of a sprint, it can be removed from the backlog.
+
 ## Backlog prioritization
+<img src="https://github.com/brendamrdz/week4-course15-scrum/blob/main/images/Capture.JPG?raw=true" alt="alt text" width="30%" height="auto"><br><br>
