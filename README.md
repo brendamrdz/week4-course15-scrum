@@ -62,3 +62,89 @@ Scrum artifacts represent work or value in various forms that are useful for pro
 - Product Owner
 - Scrum Master
 - Development Team
+
+Scrum is designed to optimize flexibility, creativity, and productivity.
+Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback.
+**Dependencies**: It is ideal to organize teams with a focus on minimizing dependencies on external entities.
+**Types of organization**: Teams can be organized based on functionalities or components.
+
+### Product Owner
+The Product Owner is responsible for maximizing the value of the product resulting from the work of the Development Team. The Product Owner is the sole person responsible for managing the Product List.
+Responsibilities:
+- Clearly express the elements of the Product List. 
+- Prioritize the items on the Product List.
+- Optimize the value of the Development Team's work.
+- Ensure that the Product List is visible, transparent and clear.
+- Ensure that the Development Team is aware of the items on the Product List.
+The Product Owner's decisions are reflected in the content and prioritization of the Product List.
+No one can force the Development Team to work based on a different set of requirements.
+
+### Scrum Master
+The Scrum Master role is responsible for promoting and supporting Scrum by helping everyone understand Scrum theory, practices, rules, and values.
+The Scrum Master is a leader who is at the service of the Scrum Team. Helps people outside the Scrum Team understand which interactions with the Scrum Team can be useful and which cannot. 
+**The Scrum Master's Role**
+- Lead and guide the organization in the adoption of Scrum.
+- Work with other Scrum Masters to increase the effectiveness of Scrum application in the organization.
+**The Scrum Master's Service to the Product Owner**
+- Ensure that the objectives, scope, and product domain are understood by everyone on the team. Scrum in the best possible way.
+- Understand and practice agility.
+- Facilitate Scrum events as required or needed.
+**The Scrum Master's Service to the Development Team**
+- Guide the Development Team in being self-organizing and cross-functional.
+- Help the Development Team create high value products.
+- Remove impediments to the Development Team's progress.
+- The Scrum Master's Service to the Organization.
+
+### The Development Team
+Consists of the professionals who perform the work of delivering a "Finished" product increment that can potentially be put into production at the end of each Sprint.
+The organization is responsible for structuring and empowering the Development Teams to organize and manage their own work.
+Characteristics:
+- Self-organized.
+- Cross-functional.
+- No titles.
+- No sub-teams.
+- Can only be modified at the end of the sprint.
+The optimal size of the Development Team is small enough to remain agile and large enough to complete a significant amount of work.
+
+## Epics and the Product Backlog
+The Product Backlog is an ordered list of everything known to be needed in the product. It is the only source of requirements for any changes to be made to the product.
+The Product Backlog is never complete, it is always being developed as the project progresses. The items on the highest priority list have more complete descriptions.
+The Product List is dynamic; it is constantly changing to identify what the product needs to be adequate, competitive and useful.
+The Product List is a living artifact, it is constantly changing and all the elements necessary to complete the product reside in it.
+The elements of the Product List are called User Stories.
+All User Stories can be grouped into larger elements called Epics.
+Epics can be created based on functionalities or modules of the product being developed.
+These Epics usually require more than one Sprint to be completed.
+
+
+
+***If we are developing an LMS system the Epics can be:**
+- Authentication module.
+- Evaluation module.
+- Course creation module.
+- Module for student interaction.
+
+**What do User Stories tell us?**
+User stories are the most specific elements of the Product List, they contain the user's view of the expected functionality of the product.
+
+
+**Components of the user story:**
+- Title
+- Description
+- Points
+- Acceptance Criteria
+**Description:**
+- As <rol>
+- I want <action>
+- For <benefit>
+Example:
+If we develop an LMS system the epics can be:
+- As a student
+- I want to be able to complete assessments on the platform.
+- To be able to be assessed and have a grade.
+  
+ The definition of "complete" is the list of elements required to know that a story is complete. Example:
+- Functionality. (Acceptance criteria)
+- Code uploaded to git.
+- Tests created.
+- Documentation.
