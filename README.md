@@ -32,9 +32,33 @@ The essence of Scrum is a small team of people. The individual team is highly fl
 Scrum is based on empirical process control theory or empiricism. Empiricism asserts that knowledge comes from experience and making decisions based on what is known.
 
 
-**Pillars of Scrum:**
+### Pillars of Scrum
 - Transparency
 - Inspection
 - Adaptation
 
-#### Scrum values
+### Scrum values
+<img src="https://user-images.githubusercontent.com/26840321/126847045-c6121bdb-8c56-4259-84f8-b1b4d0062b02.png" alt="alt text" width="40%" height="auto"><br><br>
+### SCRUM components
+- **The Scrum Team**: The Scrum Team is self-organizing and cross-functional.
+- **Product Owner:** Responsible for maximizing the value of the product.
+- **Scrum Master:** Responsible for promoting and supporting Scrum.
+- **Development Team:** Professionals who perform the work of delivering a "Finished" product increment.
+
+### Scrum Events
+In Scrum there are predefined events in order to create regularity and minimize the need for undefined meetings in Scrum.
+- Sprint The heart of Scrum where a product increment is created.
+- Sprint planning A ceremony to define what will be done during the sprint.
+- Daily stand-up Daily meeting of the entire development team.
+- Sprint review Sprint review is where the increment developed during the sprint is shown. 
+- Sprint retrospective Opportunity to apply continuous improvement.
+
+### Scrum Artifacts
+Scrum artifacts represent work or value in various forms that are useful for providing transparency and opportunities for inspection and adaptation.
+- **Product Backlog** An ordered list of everything known to be needed in the product. 
+- **Sprint Backlog** Items from the Product Backlog selected for the Sprint.
+
+### Scrum Team
+- Product Owner
+- Scrum Master
+- Development Team
