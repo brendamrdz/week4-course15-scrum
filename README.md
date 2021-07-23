@@ -175,11 +175,87 @@ You can use different scales:
 - **Speed** This is the total number of user story points completed by the team during a sprint.
 - **Capacity** Total number of user stories that can be completed in a future sprint.
 
-## Sprint To Do List
+### Sprint To Do List
 It is a subset of the Product List and contains all the elements that will be developed during the Sprint.
 The increment to be developed and the Sprint objectives will depend on these items.
 This plan must have enough detail so that the whole team is able to understand it in the daily stand-ups (daily Scrum).
 Only the development team can accept additions to the Sprint Backlog. If an item becomes unnecessary in the middle of a sprint, it can be removed from the backlog.
 
-## Backlog prioritization
+### Backlog prioritization
 <img src="https://github.com/brendamrdz/week4-course15-scrum/blob/main/images/Capture.JPG?raw=true" alt="alt text" width="30%" height="auto"><br><br>
+
+### What is the pace of the team?
+The Sprint is the heart of Scrum, it is a set period of time in which a product increment is created. 
+- Each Sprint must have a clear objective.
+- Any changes within the Sprint must be negotiated between the Product Owner and the Development Team.
+- If the Sprint objectives become obsolete, the Sprint may be cancelled.
+- Only the Product Owner has the authority to cancel a Sprint.
+- It is very rare to cancel a sprint.
+
+#### Planning the Sprint
+Here all the work of the Sprint is planned.
+- The entire Scrum Team must be present.
+- It should not last more than 8 hours (4 week Sprints).
+- The Scrum master is in charge of organizing the ceremony.
+- During the planning these questions should be answered:
+  - What can be delivered at the end of the Sprint?
+  - How will this work be accomplished?
+  - What can be delivered at the end of the Sprint?
+- The highest priority items on the Product List are worked on.
+- The objective to be achieved in the Sprint is also discussed.
+- In the planning process you need to know the capacity of the team and the speed of the last iteration.
+
+#### How will this be achieved?
+- The Product List items selected for the Sprint are analyzed and moved to the Sprint Pending List.
+- During this process, effort estimates are made.
+- The Product Owner is in charge of clarifying any doubts with any Backlog item.
+- Guests may be invited to add value to the discussion of the features.
+
+
+### Daily Stand-Up
+It is a daily meeting of no more than 15 minutes of the Development Team. It is used to plan the next 24 hours of work.
+The Scrum Master helps schedule the meeting at the same place at the same time every day. Other people may be present but do not participate.
+It optimizes collaboration among team members.
+It also helps to measure progress toward meeting the sprint goal.
+
+
+**Three questions:**
+- What did I do yesterday?
+- What will I do today?
+- Do I have any impediments?
+
+If there are any impediments the Scrum Master will be in charge of helping to resolve them.
+If more details are needed about what was discussed the team can meet if necessary.
+
+### Refining Stories
+Within Scrum processes it is highly desirable to always have functionality in the Product List ready for implementation.
+- It is recommended to have at least one story refining session during the sprint.
+- This meeting is organized by the Scrum Master and all members of the Development Team can participate. The Product Owner is always present.
+- The objective of the story refinement session is to be able to take the features to be worked on in the next Sprint and to detect any possible doubts or impediments before starting the sprint.
+Showing and Learning: Demos and Retrospectives
+
+
+### Sprint Review
+The sprint review always occurs at the end of the sprint, demonstrating the progress of the iteration and the functional product that was built.
+Sprint Review is facilitated by the Scrum Master.
+It should not last more than 4 hours for one month sprints. For shorter sprints the ceremony should last less time.
+At the end of the review you will have an updated product list.
+Important, save the presentations and show the developed product.
+
+### Retrospective
+It should not last more than 3 hours for a 1 month sprint.
+It is facilitated by the Scrum Master.
+The entire Scrum Team participates.
+Retrospective
+*Three questions:**
+- What did we do well?
+- What did we do not do so well?
+- What can we improve?
+Based on the answers, the most important elements are identified, solutions are sought and an action plan is created to implement the improvements.
+### Team scalability
+Scrum is capable of working with projects of 10 people as well as projects of 100 and more. The way Scrum is designed allows to face projects of different levels of complexity.
+
+## Scrum of Scrums
+Scrum of Scrums is a meeting where members of all the teams frequently meet and that allows coordinating efforts between the different teams of the organization.
+The importance of Communities of Practice
+Communities of practice are groups of people who share an interest or passion for something they do and learn to do it better as they interact.
